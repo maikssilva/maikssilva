@@ -2,7 +2,21 @@
 
 ###
 
-<p align="left">I'm studying Systems Analysis and Development at Anhanguera Educacional college, I have a basic knowledge of Python and GO. I am also taking a Python bootcamp through the DIO.ME platform and courses focused on Python, Go, Git, and Github through the same platform and other places, such as Santander Educacional, Cursoemvideo, and Academiadev.<br><br>I worked as an Occupational Safety Technician in industries such as Coca-Cola and Dongwon, where I was able to deliver various trainings focused on the Occupational Safety area, work with agile methodologies, and manage personnel.<br><br>I studied English in Brazil at Skill Idiomas and, after finishing the course, I did an exchange program in Dublin, Ireland. I was then hired by Dongwon, where I was able to improve my English, since the language spoken with the managers within the office was English.</p>
+<p align="left">I'm currently studying Systems Analysis and Development at Anhanguera Educacional College.
+My main focus is on Data Analysis, where I’m building a solid foundation in Python, Excel, Power BI, and Google Data Analytics.
+
+I’ve completed several practical bootcamps and courses, including:
+
+Python Course – Curso em Vídeo (by Gustavo Guanabara)
+Santander Bootcamp on Generative AI – DIO platform
+Klabin Bootcamp: Excel, Power BI and Dashboards – DIO platform
+Google Data Analytics Certificate
+
+Through these programs, I’ve learned to collect, clean, and analyze data, create interactive dashboards, and generate insights to support decision-making.
+
+Before moving into the tech field, I worked as an Occupational Safety Technician in companies such as Coca-Cola and Dongwon, where I gained experience leading trainings, managing teams, and applying agile methodologies in operational contexts.
+
+I also studied English in Brazil and participated in an exchange program in Dublin, Ireland, which helped me reach an intermediate–advanced level of communication and collaboration in English.</p>
 
 ###
 
