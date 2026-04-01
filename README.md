@@ -26,7 +26,23 @@
 
 ###
 
-<p align="left">I'm currently studying Systems Analysis and Development at UNICESUMAR.<br>My main focus is on Data Analysis, where I’m building a solid foundation in Python, Excel, Power BI, and Google Data Analytics.<br><br>I’ve completed several practical bootcamps and courses, including:<br><br>Python Course – Curso em Vídeo (by Gustavo Guanabara)<br>Santander Bootcamp on Generative AI – DIO platform<br>Klabin Bootcamp: Excel, Power BI and Dashboards – DIO platform<br>Google Data Analytics Certificate<br><br>Through these programs, I’ve learned to collect, clean, and analyze data, create interactive dashboards, and generate insights to support decision-making.<br><br>Before moving into the tech field, I worked as an Occupational Safety Technician in companies such as Coca-Cola and Dongwon, where I gained experience leading trainings, managing teams, and applying agile methodologies in operational contexts.<br><br>I also studied English in Brazil and participated in an exchange program in Dublin, Ireland, which helped me reach an intermediate–advanced level of communication and collaboration in English.</p>
+<p align="left">I am currently studying Systems Analysis and Development at UNICESUMAR, with a strong focus on Backend Development using Java.
+
+I am building a solid foundation in backend technologies such as Java, Spring Boot, APIs, and SQL, aiming to develop scalable and well-structured applications following industry best practices.
+
+I am actively participating in practical bootcamps and courses, including:
+
+Backend Development with Java & QA – DIO platform
+Santander Bootcamp on Generative AI – DIO platform
+Additional backend-focused training with Java, APIs, and database integration
+
+Through these programs, I am developing hands-on experience in building REST APIs, working with databases, applying object-oriented programming principles, and understanding software architecture and testing practices.
+
+In parallel, I am also completing the Google Data Analytics Certificate, where I’ve gained experience with Python, Excel, Power BI, and data analysis. This background allows me to approach backend development with a data-driven mindset, improving decision-making and system design.
+
+Before transitioning into the tech field, I worked as an Occupational Safety Technician in companies such as Coca-Cola and Dongwon. During this time, I developed strong skills in leadership, problem-solving, process optimization, and team collaboration.
+
+I also have an intermediate–advanced level of English, developed through studies in Brazil and an exchange program in Dublin, Ireland, enabling effective communication in international and technical environments.</p>
 
 ###
 
