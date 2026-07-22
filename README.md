@@ -26,23 +26,27 @@
 
 ###
 
-<p align="left">I am currently studying Systems Analysis and Development at UNICESUMAR, with a strong focus on Backend Development using Java.
+<p align="left">I am currently studying Systems Analysis and Development at UNICESUMAR, with a strong focus on Backend Development using Node.js.
 
-I am building a solid foundation in backend technologies such as Java, Spring Boot, APIs, and SQL, aiming to develop scalable and well-structured applications following industry best practices.
+I am building a solid foundation in backend technologies such as Node.js, JavaScript, TypeScript, Express.js, REST APIs, SQL, and databases, with the goal of developing scalable, secure, and well-structured applications following software engineering best practices.
 
-I am actively participating in practical bootcamps and courses, including:
+I am continuously improving my backend skills through hands-on projects, courses, and bootcamps, focusing on topics such as:
 
-Backend Development with Java & QA – DIO platform
-Santander Bootcamp on Generative AI – DIO platform
-Additional backend-focused training with Java, APIs, and database integration
+Node.js and Express.js
+REST API development
+Authentication and Authorization (JWT)
+SQL and NoSQL databases
+Git & GitHub
+Software Architecture
+Testing and Clean Code
 
-Through these programs, I am developing hands-on experience in building REST APIs, working with databases, applying object-oriented programming principles, and understanding software architecture and testing practices.
+Alongside my backend studies, I continue to develop my knowledge of Python and Data Analytics, having completed training in Python, Excel, Power BI, SQL, and data analysis. This background helps me build applications with a data-driven mindset and strengthens my analytical and problem-solving skills.
 
-In parallel, I am also completing the Google Data Analytics Certificate, where I’ve gained experience with Python, Excel, Power BI, and data analysis. This background allows me to approach backend development with a data-driven mindset, improving decision-making and system design.
+Before transitioning into the technology field, I worked as an Occupational Safety Technician at companies such as Coca-Cola and Dongwon. During this period, I developed strong skills in leadership, problem-solving, process improvement, teamwork, and communication—qualities that I now bring to software development.
 
-Before transitioning into the tech field, I worked as an Occupational Safety Technician in companies such as Coca-Cola and Dongwon. During this time, I developed strong skills in leadership, problem-solving, process optimization, and team collaboration.
+I also have an intermediate-to-advanced level of English, developed through studies in Brazil and an exchange program in Dublin, Ireland, allowing me to communicate effectively in international and technical environments.
 
-I also have an intermediate–advanced level of English, developed through studies in Brazil and an exchange program in Dublin, Ireland, enabling effective communication in international and technical environments.</p>
+I am currently seeking opportunities to grow as a Backend Developer, contributing to real-world projects while continuously learning and improving my technical skills.</p>
 
 ###
 
