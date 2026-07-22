@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I am currently studying Systems Analysis and Development at UNICESUMAR, with a strong focus on Backend Development using Node.js.
+<p align="left">I am currently studying Systems Analysis and Development at Cruzeiro do Sul University, with a strong focus on Backend Development using Node.js.
 
 I am building a solid foundation in backend technologies such as Node.js, JavaScript, TypeScript, Express.js, REST APIs, SQL, and databases, with the goal of developing scalable, secure, and well-structured applications following software engineering best practices.
 
